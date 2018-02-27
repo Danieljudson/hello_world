@@ -1,5 +1,4 @@
 # hello_world
-Hello world repository to get started
 
 This is a file to explain myself. 
 Name is Dan.
